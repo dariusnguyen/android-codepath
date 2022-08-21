@@ -26,7 +26,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="48dp"
-        app:srcCompat="@drawable/unnamed"
+        app:srcCompat="@drawable/squirrel"
         />
 
     <Button

@@ -23,6 +23,7 @@ Here's a walkthrough of implemented features:
 <img src='https://github.com/dariusnguyen/android-codepath/blob/master/HelloWorldDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
+Image source: Stanislav Duben/Shutterstock
 GIF created with [ezgif.com](https://ezgif.com/).
 <!-- Other options include:
 [Kap](https://getkap.co/) for macOS
