@@ -20,10 +20,11 @@ I did not implement optional features because I feel like this is meant to be a 
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/dariusnguyen/android-codepath/blob/master/HelloWorldDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/dariusnguyen/android-codepath/blob/master/HelloWorldDemo.gif' title='Video Walkthrough' width='282' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 Image source: Stanislav Duben/Shutterstock
+
 GIF created with [ezgif.com](https://ezgif.com/).
 <!-- Other options include:
 [Kap](https://getkap.co/) for macOS
